@@ -49,7 +49,7 @@
     "sinon": "^2.3.4"
   },
   "bugs": {
-    "url": "https://github.com/divid/divid-rpc/issues"
+    "url": "https://github.com/divicoin/divid-rpc/issues"
   },
-  "homepage": "https://github.com/divid/divid-rpc"
+  "homepage": "https://github.com/divicoin/divid-rpc"
 }
